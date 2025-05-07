@@ -19,8 +19,8 @@ main {
     max-width: 30rem;
     padding: 1rem;
 }
-.index {
-    background-color: gray;
+section {
+    background-color: rgb(74, 74, 161);
     width: 100%;
     height: 100rem;
 }
