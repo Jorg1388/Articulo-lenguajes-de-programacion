@@ -1,0 +1,27 @@
+.articulo7 {
+    gap: 1rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  h1 {
+      font-size: 3rem;
+      color: white;
+  }
+  
+  p {
+      font-size: 1rem;
+  }
+  
+  h4 {
+      font-size: 1.5rem;
+      color: white;
+  }
+  
+  .img{
+      display: flex;
+      justify-content: center;
+      width: 15rem;
+      height: 15rem;
+  }
